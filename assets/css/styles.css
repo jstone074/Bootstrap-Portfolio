@@ -85,4 +85,13 @@ h2 {
   .imagebox:hover .imagebox-desc {
     padding-bottom: 10%;
   }
-  
+
+  /* * Phone Configuration */
+  @media only screen and (max-width: 980px) and (min-width: 768px)
+{
+.col-md-4 {
+  flex:none;
+  max-width: 100%;
+}
+}
+

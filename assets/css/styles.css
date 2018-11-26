@@ -87,7 +87,7 @@ h2 {
   }
 
   /* * Phone Configuration */
-  @media only screen and (max-width: 980px) and (min-width: 768px)
+  @media only screen and (max-width: 980px) and (min-width: 640px)
 {
 .col-md-4 {
   flex:none;
